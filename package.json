@@ -1,0 +1,24 @@
+{
+  "name": "lazyloading",
+  "version": "1.0.0",
+  "description": "\"lazy loading of images for performance improvement\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchitrajaydev/lazyLoading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suchitrajaydev/lazyLoading/issues"
+  },
+  "homepage": "https://github.com/suchitrajaydev/lazyLoading#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "handlebars": "^4.0.12"
+  }
+}
