@@ -1,9 +1,18 @@
-<h1>{{title}}</h1>
-<span>{{content}}</span>
-<ul class="people_list">
-  {{#each images}}
-    <li>
-        <img src="{{this}}" alt="not found">
-    </li>
-  {{/each}}
-</ul>
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="index.css">
+    </head>
+    <body>
+    <h1>{{title}}</h1>
+    <span>{{content}}</span>
+    <ul class="people_list">
+    {{#each images}}
+        <li>
+            <img data-src="{{this}}" alt="not found" class="tooManyImages">
+        </li>
+    {{/each}}
+    </ul>
+    <script src="lazy.js"></script>
+    </body>
+</html>
