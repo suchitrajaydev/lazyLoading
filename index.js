@@ -11,4 +11,4 @@ const template = handlebars.compile(source, { strict: true });
 const result = template(data);
 
 fs.writeFileSync(outFile, result);
-console.log(`File written to ${outFile}`);
+console.log(`File written to ${outFile}`); 
