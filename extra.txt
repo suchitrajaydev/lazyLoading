@@ -1,0 +1,29 @@
+
+//  "originalImages": [
+//     
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/020217-get-the-look-desktop-7.png",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/careers.png",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/gift-cards.png",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-no-longer-available.jpeg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/pinkCard.png",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-gift-card-148x199.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-egift-card-148x199.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/040918-sport-home-tops-poster_1600x820.png",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/desktop-thankyouBG.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/pinkCard.png",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/images/desktop-error-image.jpg"
+// ],
+// "reducedImages": [
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/020217-get-the-look-1.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/020217-get-the-look-desktop-7.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/careers.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/gift-cards.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/image-no-longer-available.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/pinkCard.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/image-gift-card-148x199.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/image-egift-card-148x199.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/040918-sport-home-tops-poster_1600x820.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/desktop-thankyouBG-small.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/pinkCard.jpg",
+//     "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/desktop-error-image.jpg"
+// ]

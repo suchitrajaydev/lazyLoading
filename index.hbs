@@ -9,7 +9,7 @@
     <ul class="people_list">
     {{#each images}}
         <li>
-            <img data-src="{{this}}" alt="not found" class="tooManyImages">
+            <img src="{{this.reduced}}" data-src="{{this.original}}"  alt="not found" class="tooManyImages">
         </li>
     {{/each}}
     </ul>
