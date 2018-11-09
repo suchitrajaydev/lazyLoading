@@ -2,21 +2,69 @@
     "title": "testing template!!",
     "content": "test performance of the page!!!!",
     "images": [
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/020217-get-the-look-1.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/020217-get-the-look-desktop-7.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/careers.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/gift-cards.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-no-longer-available.jpeg",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/pinkCard.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-gift-card-148x199.jpg",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-egift-card-148x199.jpg",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/01-030818-home-mob-strapless-transparency.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/040918-sport-home-tops-poster_1600x820.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/olps-desktop-approved-header.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/angel-card-lp-ftr-update.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/desktop-thankyouBG.jpg",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/pants-fit.jpg",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/pinkCard.png",
-        "/Users/smathad/projects/myProjects/lazyLoading/assets/images/olps-mobile-apply-header.png"
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/020217-get-the-look-1.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/020217-get-the-look-1.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/020217-get-the-look-desktop-7.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/020217-get-the-look-desktop-7.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/careers.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/careers.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/gift-cards.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/gift-cards.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-no-longer-available.jpeg",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/image-no-longer-available.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/pinkCard.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/pinkCard.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-gift-card-148x199.jpg",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/image-gift-card-148x199.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/image-egift-card-148x199.jpg",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/image-egift-card-148x199.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/040918-sport-home-tops-poster_1600x820.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/040918-sport-home-tops-poster_1600x820.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/desktop-thankyouBG.jpg",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/desktop-thankyouBG-small.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/pinkCard.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/pinkCard.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/desktop-error-image.jpg",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/desktop-error-image.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/errorPage-image.jpg",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/errorPage-image.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/mobile-thankyouBG.jpg",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/mobile-thankyouBG.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/apple-touch-icon-72x72-precomposed.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/apple-touch-icon-72x72-precomposed.jpg"
+        },
+        {
+            "original": "/Users/smathad/projects/myProjects/lazyLoading/assets/images/angel-card-lp-ftr-update.png",
+            "reduced": "/Users/smathad/projects/myProjects/lazyLoading/assets/reducedImages/angel-card-lp-ftr-update.jpg"
+        }
     ]
 }
